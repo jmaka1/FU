@@ -1,7 +1,7 @@
 baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
-theme                   = "hugo-future-imperfect-slim"
+theme                   = "hugo-future-imperfect-slim-master"
 preserveTaxonomyNames   = true
 paginate                = 3
 disqusShortname         = ""
@@ -214,7 +214,7 @@ disableLanguages        = [""]
       url               = "/contact/"
       identifier        = "far fa-envelope"
       weight            = 6
-	  
+
   [Languages.br]
     languageCode        = "br"
     LanguageName        = "Português"
