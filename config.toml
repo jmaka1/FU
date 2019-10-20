@@ -1,13 +1,13 @@
 baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "FinReg Uncovered"
 theme                   = "hugo-future-imperfect-slim-master"
 preserveTaxonomyNames   = true
 paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = [""]
+disableLanguages        = ["true"]
 
 [params]
   # Loads CSS and JavaScript files. The variable is an array so that you can load
@@ -31,9 +31,9 @@ disableLanguages        = [""]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "FU. Jay Makani"
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "Jay Makani"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
@@ -46,18 +46,18 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "FinReg Uncovered"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "FinReg Uncovered"
+    paragraph             = "Exploring and Simplifying Regulation in Financial Services."
     rssIntro              = true
     socialIntro           = true
 
