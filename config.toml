@@ -1,4 +1,4 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://fu.io/"
 DefaultContentLanguage  = "en"
 title                   = "FinReg Uncovered"
 theme                   = "hugo-future-imperfect-slim-master"
@@ -92,7 +92,7 @@ disableLanguages        = ["true"]
     # Sets Statiman to be active
     staticman           = false
     # Sets the location for Staticman to connect to
-    username            = ""
+    username            = "jmaka1"
     repo                = ""
     branch              = ""
 
